@@ -1,0 +1,6 @@
+borderless=0
+fullscreen=0
+resolution=8
+music=10
+sound=10
+cursor=1

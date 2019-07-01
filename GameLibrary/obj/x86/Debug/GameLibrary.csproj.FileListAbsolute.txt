@@ -1,0 +1,46 @@
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\GameLibrary.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\MonoGame.Framework.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.MediaFoundation.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.XAudio2.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.DXGI.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.Direct3D11.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.Direct2D1.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.XInput.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.Direct3D9.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\MonoGame.Framework.xml
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.MediaFoundation.xml
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.xml
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.XAudio2.xml
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.DXGI.xml
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.Direct3D11.xml
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.Direct2D1.xml
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.XInput.xml
+S:\SVN\Commercial Games\trunk\GameLibrary\bin\x86\Debug\SharpDX.Direct3D9.xml
+S:\SVN\Commercial Games\trunk\GameLibrary\obj\x86\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+S:\SVN\Commercial Games\trunk\GameLibrary\obj\x86\Debug\GameLibrary.dll
+S:\SVN\Commercial Games\trunk\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+S:\Projects\gl\GameLibrary\bin\x86\Debug\GameLibrary.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+S:\Projects\gl\GameLibrary\bin\x86\Debug\MonoGame.Framework.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.MediaFoundation.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.XAudio2.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.DXGI.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.Direct3D11.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.Direct2D1.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.XInput.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.Direct3D9.dll
+S:\Projects\gl\GameLibrary\bin\x86\Debug\MonoGame.Framework.xml
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.MediaFoundation.xml
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.xml
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.XAudio2.xml
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.DXGI.xml
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.Direct3D11.xml
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.Direct2D1.xml
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.XInput.xml
+S:\Projects\gl\GameLibrary\bin\x86\Debug\SharpDX.Direct3D9.xml
+S:\Projects\gl\GameLibrary\obj\x86\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+S:\Projects\gl\GameLibrary\obj\x86\Debug\GameLibrary.dll
+S:\Projects\gl\GameLibrary\obj\x86\Debug\GameLibrary.pdb

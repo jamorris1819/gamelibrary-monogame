@@ -1,0 +1,161 @@
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\resolutions.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Fonts\cloudy.ttf
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Fonts\dece.ttf
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Content.mgcb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\08343.exe
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\08343.pdb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\GameLibrary.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\MonoGame.Framework.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.XInput.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\GameLibrary.pdb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\MonoGame.Framework.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.XInput.xml
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+S:\SVN\Commercial Games\trunk\08343\obj\x86\Debug\08343.csprojResolveAssemblyReference.cache
+S:\SVN\Commercial Games\trunk\08343\obj\x86\Debug\08343.exe
+S:\SVN\Commercial Games\trunk\08343\obj\x86\Debug\08343.pdb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Fonts\bookFont.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Fonts\mainFont.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Fonts\mainMenuOptionFont.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Fonts\mainMenuTitleFont.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Fonts\markerFont.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Fonts\markerFontTitle.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Fonts\markerFontVennTitle.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\venn.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\standing.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\1.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\10.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\11.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\12.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\13.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\14.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\15.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\16.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\2.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\3.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\4.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\5.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\6.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\7.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\8.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\9.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\1.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\10.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\11.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\12.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\13.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\14.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\15.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\16.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\2.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\3.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\4.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\5.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\6.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\7.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\8.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\9.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Screens\bookscreen.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Screens\mainmenu.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Screens\officeboardscreen.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Screens\officescreen.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\Screens\officescreenhover.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\UI\arrow_left.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\UI\arrow_right.xnb
+S:\SVN\Commercial Games\trunk\08343\bin\Windows\x86\Debug\Content\Images\UI\cursor.xnb
+S:\Projects\gl\08343\obj\x86\Debug\08343.exe
+S:\Projects\gl\08343\obj\x86\Debug\08343.pdb
+S:\Projects\gl\08343\obj\x86\Debug\08343.csprojResolveAssemblyReference.cache
+S:\Projects\gl\08343\bin\Windows\x86\Debug\resolutions.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Fonts\bookFont.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Fonts\cloudy.ttf
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Fonts\dece.ttf
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Fonts\mainMenuOptionFont.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Fonts\mainMenuTitleFont.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Fonts\markerFont.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Fonts\markerFontTitle.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Fonts\markerFontVennTitle.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\venn.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\standing.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\1.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\10.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\11.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\12.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\13.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\14.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\15.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\16.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\2.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\3.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\4.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\5.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\6.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\7.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\8.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Left\9.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\1.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\10.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\11.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\12.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\13.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\14.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\15.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\16.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\2.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\3.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\4.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\5.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\6.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\7.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\8.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Characters\Main\Walking\Right\9.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Screens\bookscreen.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Screens\mainmenu.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Screens\officeboardscreen.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Screens\officescreen.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\Screens\officescreenhover.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\UI\arrow_left.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\UI\arrow_right.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\UI\cursor.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Fonts\mainFont.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Images\bg.xnb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Content\Content.mgcb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\08343.exe
+S:\Projects\gl\08343\bin\Windows\x86\Debug\08343.pdb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\GameLibrary.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\MonoGame.Framework.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.XInput.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+S:\Projects\gl\08343\bin\Windows\x86\Debug\GameLibrary.pdb
+S:\Projects\gl\08343\bin\Windows\x86\Debug\MonoGame.Framework.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.XInput.xml
+S:\Projects\gl\08343\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml

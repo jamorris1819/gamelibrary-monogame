@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>S:/SVN/Commercial Games/trunk/08343/Content/Fonts/markerFontTitle.spritefont</SourceFile>
+  <SourceTime>2017-12-06T16:30:23.0265386+00:00</SourceTime>
+  <DestFile>S:/SVN/Commercial Games/trunk/08343/Content/bin/Windows/Fonts/markerFontTitle.xnb</DestFile>
+  <DestTime>2019-07-01T19:31:59.8383242+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

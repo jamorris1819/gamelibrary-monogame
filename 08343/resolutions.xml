@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resolutions>
+  <Resolution width="1024" height="768" />
+  <Resolution width="1200" height="900" />
+  <Resolution width="1280" height="1024" />
+  <Resolution width="1440" height="900" />
+  <Resolution width="1680" height="1050" />
+  <Resolution width="1600" height="900" />
+  <Resolution width="1600" height="1200" />
+  <Resolution width="1366" height="768" />
+  <Resolution width="1920" height="1080" />
+  <Resolution width="1920" height="1200" />
+  <Resolution width="1280" height="720" />
+  <Resolution width="2560" height="1440" />
+  <Resolution width="2560" height="1080" />
+  <Resolution width="3440" height="1440" />
+  <Resolution width="3840" height="2160" />
+</Resolutions>
